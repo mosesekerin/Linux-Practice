@@ -1,0 +1,15 @@
+Filesystem     1K-blocks      Used Available Use% Mounted on
+udev              476416         0    476416   0% /dev
+tmpfs              98800      1032     97768   2% /run
+/dev/sda1       40581564   2034300  38530880   6% /
+tmpfs             494000         0    494000   0% /dev/shm
+tmpfs               5120         0      5120   0% /run/lock
+tmpfs             494000         0    494000   0% /sys/fs/cgroup
+/dev/loop0         65280     65280         0 100% /snap/core20/2434
+/dev/loop1         39808     39808         0 100% /snap/snapd/21759
+/dev/loop2         94208     94208         0 100% /snap/lxd/29619
+/dev/loop3         65536     65536         0 100% /snap/core20/2318
+opt_scripts    248934396 118554560 130379836  48% /opt/scripts
+vagrant        248934396 118554560 130379836  48% /vagrant
+tmpfs              98800         0     98800   0% /run/user/1000
+Wed Nov 13 08:27:21 UTC 2024

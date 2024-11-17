@@ -1,0 +1,12 @@
+Script_structure.sh
+Timi_folder
+example.txt
+exercise
+file1.txt
+file2.txt
+input.txt
+list_file.txt
+list_files.txt
+my_dir
+output.txt
+sorted_files.txt

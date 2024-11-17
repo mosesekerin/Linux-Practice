@@ -1,0 +1,4 @@
+All systems operational
+Tue Nov 12 21:24:41 UTC 2024
+Write a script that takes the value of an existing environment variable (e.g., $HOME) and prints it to a file. Store the name of a file in a variable and check if the file exists. If it does, print a message saying "File exists." Create a variable to hold a custom message and write it into the status.txt file. Write a script that stores the permissions of status.txt in a variable and prints the value of that variable to the screen.
+Write a script that takes the value of an existing environment variable (e.g., $HOME) and prints it to a file. Store the name of a file in a variable and check if the file exists. If it does, print a message saying "File exists." Create a variable to hold a custom message and write it into the status.txt file. Write a script that stores the permissions of status.txt in a variable and prints the value of that variable to the screen.

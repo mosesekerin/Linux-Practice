@@ -1,0 +1,7 @@
+basic_script.sh
+file_list.sh
+file_list.txt
+hello_world.sh
+special.sh
+status.txt
+txt_files
